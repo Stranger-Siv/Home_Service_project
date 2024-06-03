@@ -21,7 +21,9 @@ function App() {
   return (
     <div className="w-screen h-screen flex flex-col bg-gray-900 text-white">
       <Navbar isLoggedIn={isLoggedIn} setIsLoggedIn={setIsLoggedIn}/>
-
+    <div>
+      <p>Please click on Home Button</p>
+    </div>
 
       <Routes>
 
