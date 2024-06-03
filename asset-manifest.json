@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Home_Service_project/static/css/main.27129bcb.css",
-    "main.js": "/Home_Service_project/static/js/main.0c962b76.js",
+    "main.js": "/Home_Service_project/static/js/main.6f0ba933.js",
     "static/media/mbs2.jpeg": "/Home_Service_project/static/media/mbs2.0b12492970d1023c1e0a.jpeg",
     "static/media/service.jpeg": "/Home_Service_project/static/media/service.b0caa7a5fed00e0c7551.jpeg",
     "static/media/signup.png": "/Home_Service_project/static/media/signup.b431d919de01b6515dd6.png",
@@ -43,10 +43,10 @@
     "static/media/d1.webp": "/Home_Service_project/static/media/d1.11666a4c2f4c62cbed53.webp",
     "index.html": "/Home_Service_project/index.html",
     "main.27129bcb.css.map": "/Home_Service_project/static/css/main.27129bcb.css.map",
-    "main.0c962b76.js.map": "/Home_Service_project/static/js/main.0c962b76.js.map"
+    "main.6f0ba933.js.map": "/Home_Service_project/static/js/main.6f0ba933.js.map"
   },
   "entrypoints": [
     "static/css/main.27129bcb.css",
-    "static/js/main.0c962b76.js"
+    "static/js/main.6f0ba933.js"
   ]
 }
