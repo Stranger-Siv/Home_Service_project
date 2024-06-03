@@ -21,12 +21,9 @@ function App() {
   return (
     <div className="w-screen h-screen flex flex-col bg-gray-900 text-white">
       <Navbar isLoggedIn={isLoggedIn} setIsLoggedIn={setIsLoggedIn}/>
-    <div>
-      <p>Please click on Home Button</p>
-    </div>
-
       <Routes>
 
+      <Route path="*" element={<Home />} />
         <Route path="/" element= {<Home isLoggedIn={isLoggedIn}/>} />
         <Route path="/login" element = {<Login  setIsLoggedIn={setIsLoggedIn} />} />
         <Route path="/signup" element={<Signup  setIsLoggedIn={setIsLoggedIn} />} />
